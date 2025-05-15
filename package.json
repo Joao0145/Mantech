@@ -1,0 +1,19 @@
+{
+  "name": "app-manutencao",
+  "version": "1.0.0",
+  "description": "Aplicativo de manutenção preventiva e corretiva com Firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Nenhum processo de build definido.'"
+  },
+  "dependencies": {
+    "firebase": "^11.10.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "keywords": ["firebase", "manutencao", "javascript", "webapp"],
+  "author": "Seu Nome",
+  "license": "MIT"
+}
