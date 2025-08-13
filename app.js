@@ -158,6 +158,7 @@ function carregarChamados() {
       listaChamados.appendChild(li);
     });
   });
+  
 }
 
 // Encerrar chamado
